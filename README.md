@@ -65,7 +65,7 @@ The following instruction helps users to spin up DISCO graph database locally
   ```
 - Copy the following content into `Dockerfile`
   ```dockerfile
-    FROM duncanhmdam/disco:latest
+    FROM duncanhmdam/disco:1.0
   ```
 - Create `docker-compose.yml`
   ```sh
